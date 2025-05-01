@@ -60,8 +60,8 @@
 ###
 
 
-<div align="left">
- 
+<div align="center">
+ <img src="https://leetcard.jacoblin.cool/theGauthham?theme=dark&font=Hubballi&ext=heatmap" alt="leetcode stats card"/>
 </div>
 
 ###
