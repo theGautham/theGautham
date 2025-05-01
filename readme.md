@@ -61,7 +61,7 @@
 
 
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/theGautham?theme=dark&font=Hubballi&ext=heatmap" alt="leetcode stats"/>
+ 
 </div>
 
 ###
