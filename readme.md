@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer | React Developer</h3>
 
 ###
 
